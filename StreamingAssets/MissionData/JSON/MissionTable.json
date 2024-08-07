@@ -4,7 +4,7 @@
     "MissionName": "Sleep",
     "MissionDescription": "Sleep evertime",
     "MissionAction": 0,
-    "CountAction": 2,
+    "CountAction": 1,
     "RewardID": 0,
     "Status": 0
   },
@@ -13,16 +13,16 @@
     "MissionName": "Bathing",
     "MissionDescription": "Take a bath",
     "MissionAction": 2,
-    "CountAction": 2,
+    "CountAction": 1,
     "RewardID": 1,
     "Status": 0
   },
   {
     "MissionID": 2,
-    "MissionName": "Maung",
+    "MissionName": "Eat",
     "MissionDescription": "Eath anything",
     "MissionAction": 1,
-    "CountAction": 2,
+    "CountAction": 1,
     "RewardID": 2,
     "Status": 0
   }
