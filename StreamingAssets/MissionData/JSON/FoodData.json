@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "Apple Pie",
+    "Description": "Classic dessert with a flaky crust.",
+    "Image": "",
+    "Price": 5
+  },
+  {
+    "Name": "Spaghetti Bolognese",
+    "Description": "Pasta with meat sauce.",
+    "Image": "",
+    "Price": 12
+  },
+  {
+    "Name": "Caesar Salad",
+    "Description": "Crispy lettuce with Caesar dressing.",
+    "Image": "",
+    "Price": 8
+  },
+  {
+    "Name": "Cheeseburger",
+    "Description": "Juicy beef patty with cheese.",
+    "Image": "",
+    "Price": 10
+  },
+  {
+    "Name": "Margarita Pizza",
+    "Description": "Tomato, mozzarella, and basil.",
+    "Image": "",
+    "Price": 9
+  },
+  {
+    "Name": "Chicken Nuggets",
+    "Description": "Fried chicken bites.",
+    "Image": "",
+    "Price": 6
+  },
+  {
+    "Name": "Sushi Roll",
+    "Description": "Rice and fish wrapped in seaweed.",
+    "Image": "",
+    "Price": 15
+  },
+  {
+    "Name": "Beef Tacos",
+    "Description": "Soft tacos with seasoned beef.",
+    "Image": "",
+    "Price": 7
+  },
+  {
+    "Name": "Grilled Salmon",
+    "Description": "Perfectly grilled salmon fillet.",
+    "Image": "",
+    "Price": 14
+  },
+  {
+    "Name": "Chocolate Cake",
+    "Description": "Rich and moist chocolate layers.",
+    "Image": "",
+    "Price": 6
+  },
+  {
+    "Name": "French Fries",
+    "Description": "Crispy and golden fries.",
+    "Image": "",
+    "Price": 3
+  },
+  {
+    "Name": "BBQ Ribs",
+    "Description": "Slow-cooked ribs with BBQ sauce.",
+    "Image": "",
+    "Price": 18
+  },
+  {
+    "Name": "Fried Rice",
+    "Description": "Stir-fried rice with veggies.",
+    "Image": "",
+    "Price": 8
+  },
+  {
+    "Name": "Pancakes",
+    "Description": "Fluffy pancakes with syrup.",
+    "Image": "",
+    "Price": 5
+  },
+  {
+    "Name": "Veggie Burger",
+    "Description": "Plant-based burger patty.",
+    "Image": "",
+    "Price": 9
+  },
+  {
+    "Name": "Fish and Chips",
+    "Description": "Crispy fish with fries.",
+    "Image": "",
+    "Price": 11
+  },
+  {
+    "Name": "Chicken Alfredo",
+    "Description": "Creamy pasta with chicken.",
+    "Image": "",
+    "Price": 13
+  },
+  {
+    "Name": "Shrimp Cocktail",
+    "Description": "Chilled shrimp with cocktail sauce.",
+    "Image": "",
+    "Price": 10
+  },
+  {
+    "Name": "Beef Stroganoff",
+    "Description": "Tender beef with creamy sauce.",
+    "Image": "",
+    "Price": 14
+  },
+  {
+    "Name": "BLT Sandwich",
+    "Description": "Bacon, lettuce, and tomato sandwich.",
+    "Image": "",
+    "Price": 7
+  },
+  {
+    "Name": "Tuna Salad",
+    "Description": "Light tuna with veggies.",
+    "Image": "",
+    "Price": 6
+  },
+  {
+    "Name": "Chicken Wings",
+    "Description": "Spicy and crispy wings.",
+    "Image": "",
+    "Price": 12
+  },
+  {
+    "Name": "Steak",
+    "Description": "Grilled to perfection.",
+    "Image": "",
+    "Price": 20
+  },
+  {
+    "Name": "Mac and Cheese",
+    "Description": "Cheesy baked pasta.",
+    "Image": "",
+    "Price": 8
+  },
+  {
+    "Name": "Lasagna",
+    "Description": "Layers of pasta with meat and cheese.",
+    "Image": "",
+    "Price": 13
+  },
+  {
+    "Name": "Greek Salad",
+    "Description": "Feta, olives, and fresh veggies.",
+    "Image": "",
+    "Price": 8
+  },
+  {
+    "Name": "Hot Dog",
+    "Description": "Grilled sausage in a bun.",
+    "Image": "",
+    "Price": 4
+  },
+  {
+    "Name": "Clam Chowder",
+    "Description": "Creamy soup with clams.",
+    "Image": "",
+    "Price": 7
+  },
+  {
+    "Name": "Chicken Burrito",
+    "Description": "Stuffed tortilla with chicken.",
+    "Image": "",
+    "Price": 9
+  },
+  {
+    "Name": "Eggs Benedict",
+    "Description": "Poached eggs on English muffins.",
+    "Image": "",
+    "Price": 8
+  }
+]
